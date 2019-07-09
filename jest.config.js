@@ -41,6 +41,6 @@ module.exports = {
 
   // If true gives you a very detail log when you run tests. I don’t want to see that, and only focus on the gist of my tests. So I have set its value to false
   // Indicates whether each individual test should be reported during the run
-  verbose: false
+  verbose: true
 
 }
