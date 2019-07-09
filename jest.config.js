@@ -1,6 +1,6 @@
 module.exports = {
   // clearMocks will clear all mocks, so that the mock in nth test doesn’t mutate or affect the test at n+1 position.
-  clearmocks = true,
+  clearMocks: true,
   // Indicates whether the coverage information should be collected while executing the test
   // collectCoverage: false,
 
